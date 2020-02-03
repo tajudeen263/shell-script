@@ -1,3 +1,3 @@
 #! /bin/bash
-Date=02/03/2020
+Date=$(date +%F)
 echo Hello, good morning. Today date is $Date
