@@ -1,2 +1,2 @@
 #! /bin/bash
-b=10
+b="raghu k"
