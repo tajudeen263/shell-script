@@ -1,3 +1,3 @@
 #! /bin/bash
-b="raghu k"
-echo B=$b
+Date=02/03/2020
+echo Hello, good morning. Today date is $Date
